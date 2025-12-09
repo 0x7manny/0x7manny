@@ -1,6 +1,6 @@
-<img width="1536" height="1024" alt="ChatGPT Image 9 déc  2025, 10_40_09" src="https://github.com/user-attachments/assets/aefe7024-02cf-4d4f-a37a-ba2a0709709c" />
+<img width="1277" height="179" alt="Capture d’écran 2025-12-09 à 11 16 46" src="https://github.com/user-attachments/assets/47b8df8f-8bb0-4eff-85fe-e602e0c7dc34" />
 
-Hi, I'm Ox7manny
+Hi, I'm OX7manny,
 
 Student passionate about Decentralized Finance (DeFi), Smart Contracts, Cloud Computing, and Cybersecurity.
 My goal is to build secure, scalable, and meaningful Web3 systems while mastering the technologies behind blockchain and distributed computing.
