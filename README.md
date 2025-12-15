@@ -58,8 +58,6 @@ Trust
 
 Ownership
 
-I aim to understand and build transparent, permissionless, and secure protocols.
-
 🛠️ Current Projects
 
 Learning Solidity step-by-step
@@ -84,14 +82,4 @@ Blockchain security
 
 Cloud-native Web3 apps
 
-📬 Let’s Connect
-
-(Add your links here)
-
-LinkedIn
-
-Twitter
-
-Email
-
-⚡ "Build securely. Learn constantly. Think decentralized."
+⚡ "To be ballin, you gotta be-all-in."
