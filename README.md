@@ -22,4 +22,5 @@
                                                 Contact
                                                 ───────────────────────────────
                                                 LinkedIn ....... Yannis Manicord
+                                                Portfolio....... yannismanicord.com
 ```
