@@ -8,13 +8,13 @@
 .....0XXXXXNNNX0;...:kXXXXXXXKKKKl......        Languages
 ....;XXXXXNNNNXK:,lk; 'o0XXXXKKKKO......        ───────────────────────────────
 ....:XXXXNNNNc.O0Xd.     'cOXKKKK0......        Backend ........ Node.js, Rust
-....'XXXXNNNk.,NK'          .kKKK0k......        Frontend ....... React, TypeScript
-.....xXXXXNN:.00             dKK00,......        Blockchain ..... Solidity, Move
-......kXXXXX..K.             O0OO;.......        Database ....... PostgreSQL, MySQL
+....'XXXXNNNk.,NK'          .kKKK0k......       Frontend ....... React, TypeScript
+.....xXXXXNN:.00             dKK00,......       Blockchain ..... Solidity, Move
+......kXXXXX..K.             O0OO;.......       Database ....... PostgreSQL, MySQL
 .......lXXXK...             'OOx'........
-.........oKd.               ld;..........        Cloud & DevOps
-............                    ..........        ───────────────────────────────
-................        ..................        AWS ............ EC2, S3, Lambda
+.........oKd.               ld;..........       Cloud & DevOps
+............                    ..........      ───────────────────────────────
+................        ..................      AWS ............ EC2, S3
 ........................................        Containers ..... Docker, ECS
                                                 IaC ............ Terraform
                                                 CI/CD .......... GitHub Actions
